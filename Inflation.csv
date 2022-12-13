@@ -1,5 +1,5 @@
 ﻿"CPIH inflation rate in the UK 2006-2022, by household income",,
-MonthYear,HouseholdType,InflationRate
+monthYear,householdType,inflationRate
 Jan-06,Low-income households,2.6
 Feb-06,Low-income households,2.7
 Mar-06,Low-income households,2.5
